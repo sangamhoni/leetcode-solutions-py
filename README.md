@@ -10,7 +10,17 @@ This repo contains the solutions from leetcode that I have completed. This is to
 2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [C++](./C++/maximum-good-people-based-on-statements.cpp) <br> [Python](./Python/maximum-good-people-based-on-statements.py) | _O(n^2 * 2^n)_ | _O(1)_ | Hard || Bitmasks, Brute Force -->
 
 
-<!-- ## Array & Hashing -->
+
+<!-- BASIC TEMPLATE -->
+<!-- 0000 | [Problem Title](https://leetcode.com/problems/) | [Python](./my-solutions/) | `Easy` | 00-00-2024 | N/A | N/A -->
+
+
+## Array & Hashing
+| # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
+0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./my-solutions/0383-ransom-note/0383-ransom-note.py) | `Easy` | 10-03-2024 | N/A | Hash-table
+
+
 <!-- ## Two Pointers -->
 <!-- ## Sliding Window -->
 <!-- ## Stack -->
