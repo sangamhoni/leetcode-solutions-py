@@ -20,8 +20,14 @@ This repo contains the solutions from leetcode that I have completed. This is to
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./my-solutions/0383-ransom-note/0383-ransom-note.py) | `Easy` | 10-03-2024 | N/A | Hash-table
 
+&nbsp;  
 
-<!-- ## Two Pointers -->
+## Two Pointers
+| # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
+0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./my-solutions/0383-middle-of-the-linked-list/0383-middle-of-the-linked-list.py) | `Easy` | 10-03-2024 | N/A | Linked-List
+
+
 <!-- ## Sliding Window -->
 <!-- ## Stack -->
 <!-- ## Binary Search -->
