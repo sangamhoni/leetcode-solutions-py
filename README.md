@@ -18,7 +18,9 @@ This repo contains the solutions from leetcode that I have completed. This is to
 ## Array & Hashing
 | # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
-0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./my-solutions/0383-ransom-note/0383-ransom-note.py) | `Easy` | 10-03-2024 | N/A | Hash-table
+0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./my-solutions/0383-ransom-note/0383-ransom-note.py) | `Easy` | 10-03-2024 | N/A | N/A
+0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./my-solutions/0290-word-pattern) <br> (2 solutions) | `Easy` | 10-12-2024 | N/A | N/A
+
 
 &nbsp;  
 
