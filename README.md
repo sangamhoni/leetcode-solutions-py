@@ -18,17 +18,22 @@ This repo contains the solutions from leetcode that I have completed. This is to
 ## Array & Hashing
 | # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
-0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./my-solutions/0383-ransom-note/0383-ransom-note.py) | `Easy` | 10-03-2024 | N/A | N/A
+0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./my-solutions/0383-ransom-note/) | `Easy` | 10-03-2024 | N/A | N/A
 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./my-solutions/0290-word-pattern) <br> (2 solutions) | `Easy` | 10-12-2024 | N/A | N/A
-
 
 &nbsp;  
 
 ## Two Pointers
 | # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
-0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./my-solutions/0383-middle-of-the-linked-list/0383-middle-of-the-linked-list.py) | `Easy` | 10-03-2024 | N/A | Linked-List
+0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./my-solutions/0383-middle-of-the-linked-list/) | `Easy` | 10-03-2024 | N/A | Linked-List
 
+&nbsp;  
+
+## Math & Geometry
+| # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|---| ----- | -------- | ---------- | --------------- | ---------------- | -------- |
+0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./my-solutions/0189-rotate-array) | `Medium` | 10-17-2024 | N/A | N/A
 
 <!-- ## Sliding Window -->
 <!-- ## Stack -->
@@ -44,5 +49,4 @@ This repo contains the solutions from leetcode that I have completed. This is to
 <!-- ## 2-D Dynamic Programming -->
 <!-- ## Greedy -->
 <!-- ## Intervals -->
-<!-- ## Math & Geometry -->
 <!-- ## Bit Manipulation -->
