@@ -41,7 +41,15 @@ This repo contains the solutions from leetcode that I have completed. This is to
 <!-- ## Binary Search -->
 <!-- ## Linked List -->
 <!-- ## Trees -->
-<!-- ## Tries -->
+
+&nbsp;  
+
+## Tries
+|  # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|----| ----- | -------- | ---------- | --------------- | ---------------- | ---- |
+0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./my-solutions/0014-longest-common-prefix) | `Easy` | 10-28-2024 | N/A | Trie  
+
+
 <!-- ## Heap / Priority Queue -->
 <!-- ## Backtracking -->
 <!-- ## Graphs -->
