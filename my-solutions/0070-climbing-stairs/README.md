@@ -9,4 +9,5 @@ Space Complexity: `O(n)`
 ## Personal Stats
 | Date Solved | Time Taken |
 | ----------- | ---------- |
+| 10-30-2024  | N/A |  
 | 10-28-2024  | N/A |  
