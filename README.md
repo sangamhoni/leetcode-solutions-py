@@ -34,7 +34,7 @@ This repo contains the solutions from leetcode that I have completed. This is to
 ## Math & Geometry
 |  # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
 |----| ----- | -------- | ---------- | --------------- | ---------------- | ---- |
-0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./my-solutions/0189-rotate-array) | `Medium` | 10-17-2024 | 11-06-2024 | N/A
+0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./my-solutions/0189-rotate-array) | `Medium` | 10-17-2024 | 11-08-2024 | N/A
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./my-solutions/0070-climbing-stairs) | `Easy` | 10-28-2024 | 11-08-2024 | DP  
 
 <!-- ## Sliding Window -->
