@@ -20,7 +20,7 @@ This repo contains the solutions from leetcode that I have completed. This is to
 |----| ----- | -------- | ---------- | --------------- | ---------------- | ---- |
 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./my-solutions/0383-ransom-note/) | `Easy` | 10-03-2024 | N/A | N/A
 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./my-solutions/0290-word-pattern) <br> (2 solutions) | `Easy` | 10-12-2024 | N/A | N/A
-0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./my-solutions/0013-roman-to-integer) | `Easy` | 10-29-2024 | 11-08-2024 | N/A
+0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./my-solutions/0013-roman-to-integer) | `Easy` | 10-29-2024 | 11-20-2024 | N/A
 
 &nbsp;  
 
