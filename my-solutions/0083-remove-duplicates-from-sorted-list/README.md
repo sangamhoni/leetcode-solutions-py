@@ -10,3 +10,4 @@ Space Complexity: `O(n)`
 | Date Solved | Time Taken |
 | ----------- | ---------- |
 | 12-27-2024  | 4min |  
+| 01-02-2025  | N/A |  
