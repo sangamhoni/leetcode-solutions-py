@@ -49,7 +49,7 @@ This repo contains the solutions from leetcode that I have completed. This is to
 |----| ----- | -------- | ---------- | --------------- | ---------------- | ---- |
 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./my-solutions/0083-remove-duplicates-from-sorted-list/) | `Easy` | 12-27-2024 | 01-02-2025 | N/A
 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](./my-solutions/0160-intersection-of-two-linked-lists/) | `Easy` | 12-28-2024 | N/A | N/A
-0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./my-solutions/0203-remove-linked-list-elements/) | `Easy` | 12-29-2024 | N/A | N/A
+0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./my-solutions/0203-remove-linked-list-elements/) | `Easy` | 12-29-2024 | 01-02-2025 | N/A
 
 
 <!-- ## Trees -->
