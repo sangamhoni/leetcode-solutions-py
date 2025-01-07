@@ -1,6 +1,6 @@
 ## Asymptotic Analysis  
 Time Complexity: `O(n)`  
-Space Complexity: `O(n)`  
+Space Complexity: `O(1)`  
 
 
 &nbsp;  
@@ -9,5 +9,6 @@ Space Complexity: `O(n)`
 ## Personal Stats
 | Date Solved | Time Taken |
 | ----------- | ---------- |
-| 12-27-2024  | 4min |  
+| 01-06-2025  | N/A |  
 | 01-02-2025  | N/A |  
+| 12-27-2024  | 4min |  
