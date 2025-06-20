@@ -53,7 +53,7 @@ This repo contains the solutions from leetcode that I have completed. This is to
 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./my-solutions/0234-palindrome-linked-list/) | `Easy` | 02-28-2025 | N/A | N/A
 
 
-<!-- ## Trees -->
+<!-- ## Tries -->
 
 &nbsp;  
 
@@ -65,7 +65,17 @@ This repo contains the solutions from leetcode that I have completed. This is to
 
 <!-- ## Heap / Priority Queue -->
 <!-- ## Backtracking -->
+
+&nbsp;  
+
 <!-- ## Graphs -->
+
+## Graphs
+|  # | Title | Solution | Difficulty |   Date Solved   |   Last Revised   | Note |
+|----| ----- | -------- | ---------- | --------------- | ---------------- | ---- |
+0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](./my-solutions/0997-find-the-town-judge/) | `Easy` | 06-19-2025 | N/A | N/A  
+
+
 <!-- ## Advanced Graphs -->
 <!-- ## 1-D Dynamic Programming -->
 <!-- ## 2-D Dynamic Programming -->
